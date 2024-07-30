@@ -1,0 +1,10 @@
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\obj\Debug\User Management System.csproj.AssemblyReference.cache
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\obj\Debug\User_Management_System.Form1.resources
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\obj\Debug\User_Management_System.Properties.Resources.resources
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\obj\Debug\User Management System.csproj.GenerateResource.cache
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\obj\Debug\User Management System.csproj.CoreCompileInputs.cache
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\bin\Debug\User Management System.exe.config
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\bin\Debug\User Management System.exe
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\bin\Debug\User Management System.pdb
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\obj\Debug\User Management System.exe
+D:\USJ\3 rd semester\C# - VAP\Practicals\User Management System\User Management System\obj\Debug\User Management System.pdb
